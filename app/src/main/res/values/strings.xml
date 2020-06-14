@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">kotlinVkSdk</string>
+    <string name="click">Click</string>
+    <string name="textView_Text">Вас приветствует приложение \"Друзья VK"\, \nПожалуйста, нажмите кнопку Войти, чтобы увидеть ваших друзей</string>
+    <string name="login_enter">Войти</string>
+    <string name="friends_search_hint">Enter your query here</string>
+    <string name="friends_no_item">У вас нет друзей</string>
+    <string name="login_error_creadentials">Ошибка при попытке логина в ВК</string>
+    <string name="friend_no_city">Город не указан</string>
+</resources>
